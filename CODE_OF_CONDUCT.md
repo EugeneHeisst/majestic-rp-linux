@@ -57,15 +57,9 @@ Examples of representing our community include using an official email address, 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at:
+For project moderation questions or reports that are safe to share publicly, contact the repository maintainer through [GitHub Issues](https://github.com/EugeneHeisst/majestic-rp-linux/issues).
 
-```txt
-support@majestic-linux.com
-```
-
-All complaints will be reviewed and investigated promptly and fairly.
-
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+Do not include personal information, credentials, or private allegations in a public issue. This project does not advertise a private reporting mailbox or guarantee a response time. For security vulnerabilities, follow [SECURITY.md](SECURITY.md).
 
 ---
 
